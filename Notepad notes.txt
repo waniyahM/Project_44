@@ -1,0 +1,13 @@
+1.Title of project:  
+
+2.Goal of the game: To make the bears get honey.
+
+3.Brief story of game: My game is about 2 bears wanting to get honey but sometimes bees hit them while they are trying to get it and the
+ bears need energy as they are tired. 
+
+4.Characters: 1.bees 2.bear1 3.bear2 4.Fruits/food
+
+5/6.NPC: 1.bees 2.fruits/food
+
+7.How engaing it will be:It will be multiplayer so that can engage challenge against opponents and there will be a life bar that will 
+decrease when a bear hits a bee
